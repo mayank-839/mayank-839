@@ -18,16 +18,16 @@ I am passionate about learning modern DevOps practices, improving automation, an
 ---
 ## 🛠️ Core Skills
 
-**☁️ Microsoft Azure
-**🏗️ Terraform (Infrastructure as Code)
-**🔄 CI/CD
-**🚀 Azure DevOps
-**🌿 Git & GitHub
-**🐧 Linux
-**🌐 Networking
-**🔐 Azure Key Vault
-**🖥️ Azure Virtual Machines
-**🌍 Azure Virtual Network (VNet)
-**🛡️ Network Security Groups (NSG)
+- **☁️ Microsoft Azure
+- **🏗️ Terraform (Infrastructure as Code)
+- **🔄 CI/CD
+- **🚀 Azure DevOps
+- **🌿 Git & GitHub
+- **🐧 Linux
+- **🌐 Networking
+- **🔐 Azure Key Vault
+- **🖥️ Azure Virtual Machines
+- **🌍 Azure Virtual Network (VNet)
+- **🛡️ Network Security Groups (NSG)
 
 ---
