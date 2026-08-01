@@ -31,3 +31,10 @@ I am passionate about learning modern DevOps practices, improving automation, an
 - 🛡️ Network Security Groups (NSG)
 
 ---
+## 📫 Let’s Connect
+ 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mayank-chaudhary-/)  
+- 🐙 [GitHub](https://github.com/mayank-839s)  
+- 📧 [Email](mailto:mayankchaudhary0512@gmail.com)
+
+---
