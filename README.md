@@ -34,7 +34,7 @@ I am passionate about learning modern DevOps practices, improving automation, an
 ## 📫 Let’s Connect
  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mayank-chaudhary-/)  
-- 🐙 [GitHub](https://github.com/mayank-839s)  
+- 🐙 [GitHub](https://github.com/mayank-839)  
 - 📧 [Email](mailto:mayankchaudhary0512@gmail.com)
 
 ---
