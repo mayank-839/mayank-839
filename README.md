@@ -24,6 +24,7 @@ I am passionate about learning modern DevOps practices, improving automation, an
 - 🚀 Azure DevOps
 - 🌿 Git & GitHub
 - 🐧 Linux
+- 🐳 Docker
 - 🌐 Networking
 - 🔐 Azure Key Vault
 - 🖥️ Azure Virtual Machines
