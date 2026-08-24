@@ -1,7 +1,7 @@
 # 👨‍💻 Mayank Chaudhary
 
 **DevOps & Cloud Engineer**  
-**Azure | Terraform | CI/CD | Linux 🐧 | Git 🐙 | Azure Devops 📜**
+**Azure | Terraform | CI/CD | Linux 🐧 | Git 🐙 | Azure Devops 📜 | 🐳 Docker**
 
 📧 [mayankchaudhary05122gmail.com](mailto:mayankchaudhary0512@gmail.com)  
 🔗 [GitHub](https://github.com/mayank-839) | [LinkedIn](https://www.linkedin.com/in/mayank-chaudhary-/) | 🌐 
